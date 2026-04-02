@@ -1,0 +1,22 @@
+# Testing Principles
+
+## 1. Testing shows the presence of defects, not the absence of defects
+Testing can find defects, but it cannot prove that software is perfect.
+
+## 2. Exhaustive testing is impossible
+It is not realistic to test every possible input, path, and scenario.
+
+## 3. Early testing saves time and money
+The earlier a problem is found, the cheaper and easier it is to fix.
+
+## 4. Defects cluster together
+A small number of modules often contain most of the defects.
+
+## 5. Tests wear out
+Repeating the same old tests again and again reduces their ability to find new defects.
+
+## 6. Testing is context dependent
+Different products and risks require different testing approaches.
+
+## 7. Absence of defects is a fallacy
+A product may have few bugs and still fail because it is not useful or does not meet user needs.
